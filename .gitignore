@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+data/store.json
+data/*.tmp.*
+data/*.log
+data/*.err
+.DS_Store
+Thumbs.db
